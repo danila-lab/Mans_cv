@@ -1,6 +1,6 @@
 # Mans_cv
 Danila Golcovs
-
+<img src="https://github.com/danila-lab/Mans_cv/blob/main/20210201_163821.jpg?raw=true" width="10%" height="10%">
 
 ## Izglītība
 01/09/2011 - 31/05/2020 - PAMATIZGLĪTĪBA - Salaspils 2.vidusskola
